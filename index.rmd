@@ -1,0 +1,11 @@
+---
+title: "Simple Website"
+author: "Bethel Kumsa"
+date: "7/19/2020"
+output: html_document
+---
+
+# The simple yet awesome website.
+## Note the 6 lines of text above are the YAML tags.
+### We will knit this RMD to a html file next.
+Then push index.html to the github.io repo.
