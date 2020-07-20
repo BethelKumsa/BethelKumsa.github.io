@@ -1,8 +1,8 @@
-name: "Website Name"
+name: "My Website"
 navbar:
-  title: "My Titles"
+  title: "MSDS 6306"
   left:
     - text: "About Me"
       href: index.html
     - text: "Case Study 1"
-      href: CLT_2.html
+      href: Case-Study-One.html
